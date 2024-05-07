@@ -1,0 +1,84 @@
+Python Crash Course
+Automate the Boring Stuff with Python
+Fluent Python
+Python for Data Analysis
+Learning Python
+Python Cookbook
+Python Tricks
+Effective Python
+Think Python
+Python Data Science Handbook
+Learn Python the Hard Way
+Python Pocket Reference
+Head First Python
+Python Machine Learning
+Programming Python
+Deep Learning with Python
+Test-Driven Web Development with Python
+Data Science from Scratch
+Flask Web Development
+Hands-On Machine Learning with Scikit-Learn and TensorFlow
+Python for Kids
+Python for Everybody
+Introduction to Machine Learning with Python
+Python Essential Reference (Developer's Library)
+Introduction to Computation and Programming Using Python
+Natural Language Processing with Python
+Introducing Python
+Python 3 Object-Oriented Programming(OPPs)
+Problem Solving with Algorithms and Data Structures Using Python
+The Quick Python Book
+A Byte of Python
+Dive Into Python
+Web Scraping with Python
+Black Hat Python
+Cracking Codes with Python
+Dive Into Python 3
+Violent Python
+Beginning Python
+Invent Your Own Computer Games with Python, 4e
+Python Programming
+High Performance Python
+Python for Informatics
+Core Python Programming
+Python in a Nutshell
+A Smarter Way to Learn Python
+The Hitchhiker's Guide to Python
+Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People
+Code
+Clean Code
+Learn Python 3 the Hard Way
+Elements of Programming Interviews in Python
+Programming Collective Intelligence
+Building Machine Learning Systems with Python
+Make Your Own Neural Network
+Learn Python in One Day and Learn It Well (2nd Edition)
+The Python Standard Library by Example
+Two Scoops of Django
+Doing Math with Python
+The Hacker's Guide to Python
+Python Playground
+Two Scoops of Django
+Rapid GUI Programming with Python and Qt
+Python Testing with Pytest
+Impractical Python Projects
+Deep Learning
+Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow
+Think Complexity
+The Self-Taught Programmer
+Core Python Applications Programming
+Effective Python
+The Complete Monty Python's Flying Circus: All the Words
+Classic Computer Science Problems in Python
+Starting Out with Python [With CDROM]
+Data Structures and Algorithms in Python
+Hacking Secret Ciphers with Python
+How to Make Mistakes in Python
+The Hundred-Page Machine Learning Book
+The Complete Monty Python's Flying Circus
+Python in easy steps
+Python for Finance
+Cython
+Architecture Patterns with Python
+Mastering Object-Oriented Python
+Foundations of Python Network Programming
