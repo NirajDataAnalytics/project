@@ -1,0 +1,28 @@
+Objective of Weather Project in Metplotlib and Seaborn library in Python
+1. To understand the relationship between the differents parameters which causes the weather changes
+2.Weather happens due to these parameters that we can see at that particular time-
+2.1 Apparent Temperature
+2.2 Atmospheric Pressure
+2.3 Wind Bearing and Wind Speed
+2.4 Humidity
+2.5 Precipitation- Snow, Rain
+2.6 Cloudiness
+3. Relate them all and observe the changes in weather and what impacts them to human, birds, animals
+
+Flow of Code
+
+Data Collection and Upload
+Data Information
+Data cleaning
+Data Mining
+Data Visualization
+Conclusion and Summary
+
+Summary
+
+In the Year 2009, Highest Temperature- In which humidity and Temp is high Global Warming- Min and Max Temp Difference is approx. 130C
+More Cloud- There is less power generation of Solar Power Plant, less visibility 
+Variation in the wind bearing and speed of wind (km/h) ranges only between 5 to 20 km/h, it means for certain time period wind directions changes continuously this causes breezy in the winter season
+Humidity ranges from 75% to 90% maximum, high humidity basically causes when temp is cool, Humidity is directly proportional to App. Temp.
+When Temp is low wind speed is high and visibility is low
+High Humidity also reduces the O2 level.
